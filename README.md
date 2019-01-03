@@ -31,10 +31,5 @@ Load SpecRunner.html (found in the project's root) in your favourite browser to 
 tests.
 
 ## Approach
-
-Used the red green cycle of TDD to solve Fizzbuzz one requirement at a time.
-
-## To do
-
-Refactor the tests and src file.
-
+-------
+Used the red green refactor cycle of TDD.
