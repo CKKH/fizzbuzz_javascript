@@ -8,4 +8,7 @@ describe ('Fizzbuzz', function() {
     expect(Fizzbuzz(5)).toBe('buzz');
   });
 
+  it("returns 'fizzbuzz' if the number is divisible by 15", function(){
+    expect(Fizzbuzz(15)).toBe('fizzbuzz');
+  });
 });
